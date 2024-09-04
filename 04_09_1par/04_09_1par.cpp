@@ -8,7 +8,7 @@ void Sum(int a, int b)
 
 int main()
 {
-	
+	cout << "program menu" << endl;
 
 
 
